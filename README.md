@@ -1,5 +1,5 @@
 # TakeTheTrip
-Animations making use of the Cancerspace, or similar shaders to replicate psychedelic visual effects to the best of my ability with what a shader can provide
+Animations making use of the [Cancerspace](https://github.com/AkaiMage/VRC-Cancerspace), or similar shaders to replicate psychedelic visual effects to the best of my ability with what a shader can provide
 
 WIP repo
 
